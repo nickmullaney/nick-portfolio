@@ -81,37 +81,32 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "MarginEdge",
+        "title": "Customer Software Support Specialist",
+        "years": "05.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Zendesk"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Jira",
+          "MarginEdge",
+          "SQL",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS",
+          "HTML",
+          "Google Suite",
+          "Microsoft Office Suite"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "CompassGroup@Google",
+        "title": "Cafe Manager/Sous Chef",
+        "years": "09.2015 - 09.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Google Suite"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+
         ]
       }
     ]
