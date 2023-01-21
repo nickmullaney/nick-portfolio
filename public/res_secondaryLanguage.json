@@ -3,22 +3,22 @@
       "description_header": "espanol",
       "description": "👋 Jestem Nick Mullaney. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
       "section_name": {
-        "about": "sobre",
-        "projects": "Projectos",
-        "skills": "Umiejętności",
-        "experience": "experiencia"
+        "about": "Acerca de",
+        "projects": "Proyectos",
+        "skills": "Habilidades",
+        "experience": "Experiencia"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Simon",
+        "startDate": "2022",
+        "description": "El primer proyecto del grupo de programación en el que trabajé para recrear el juego Simon de los años 80. Hicimos un juego de memoria divertido e interactivo donde puedes desafiarte a ti mismo y a tu memoria.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/simon/p2.gif",
+          "images/portfolio/simon/p1.png"
         ],
-        "url": "",
+        "url": "https://gittbizzy.github.io/SimonSays/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,12 +35,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "NPC Village",
+        "startDate": "2023",
+        "description": "Marcador de posición para el segundo proyecto que se colocará aquí",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/npcvillage/village1.jpg",
+          "images/portfolio/npcvillage/village2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Final Placeholder, Pantry",
+        "startDate": "2023",
+        "description": "Proyecto final que será increíble.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/pantry/pantry1.jpg",
+          "images/portfolio/pantry/pantry2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [

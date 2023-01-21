@@ -13,12 +13,12 @@
       {
         "title": "Simon",
         "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The first coding group project I worked on to recreate the game Simon from the 80's. We made a fun and interactive memory game where you can challenge yourself and your memory.",
         "images": [
           "images/portfolio/simon/p2.gif",
           "images/portfolio/simon/p1.png"
         ],
-        "url": "",
+        "url": "https://gittbizzy.github.io/SimonSays/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,12 +35,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "NPC Village",
+        "startDate": "2023",
+        "description": "Placeholder for second project to be placed here",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/npcvillage/village1.jpg",
+          "images/portfolio/npcvillage/village2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "Final Placeholder, pantry",
+        "title": "Final Placeholder, Pantry",
         "startDate": "2023",
         "description": "Final project which will be amazing",
         "images": [
-          "images/portfolio/adventure/pantry1.jpg",
-          "images/portfolio/adventure/pantry2.jpg"
+          "images/portfolio/pantry/pantry1.jpg",
+          "images/portfolio/pantry/pantry2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [

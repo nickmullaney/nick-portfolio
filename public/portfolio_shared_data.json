@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Nick Mullaney",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer and Chef with Leadership Experience in high paced environments" ],
       "social": [
         {
           "name": "github",
@@ -29,14 +29,9 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "70"
         },
         {
           "name": "JavaScript",
@@ -44,9 +39,9 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "70"
         },
         {
           "name": "Bootstrap",
@@ -54,13 +49,43 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "80"
+        },
+        {
+          "name": "vscode",
+          "class": "devicon-vscode-plain",
+          "level": "80"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-original",
+          "level": "80"
+        },
+        {
+          "name": "Jira",
+          "class": "devicon-jira-plain",
+          "level": "90"
+        },
+        {
+          "name": "Jupyter",
+          "class": "devicon-jupyter-plain",
+          "level": "70"
         },
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Markdown",
+          "class": "devicon-markdown-original",
+          "level": "60"
+        },
+        {
+          "name": "Photoshop",
+          "class": "devicon-photoshop-plain",
           "level": "60"
         }
       ]
