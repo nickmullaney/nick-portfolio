@@ -9,6 +9,9 @@ body[data-theme="dark"] {
    .title-styles {
       color: white;
    }
+   .title-container{
+      color: white;
+   }
 
    .header-icon {
       color: #3C342C;
@@ -34,13 +37,14 @@ body[data-theme="dark"] {
 
    header {
       background-color: #494949;
+   
       h1 {
          color: white;
       }
    }
 
    #about {
-      background-color: #7f7f7f;
+      background-image: url("../themes/teal.jpg");
       h1 span {
          color: white;
       }

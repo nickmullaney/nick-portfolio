@@ -38,7 +38,8 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #02735ec4;
+	// background-image: url("../public/images/b1.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -52,6 +53,8 @@ header .nav {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 }
+
+
 
 .github-corner:hover .octo-arm {
 	animation:octocat-wave 560ms ease-in-out
@@ -102,7 +105,7 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #8d6604;
 }
 
 .slider-tab {
@@ -120,7 +123,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background-image: url("../public/images/b1.jpg");
 	overflow: hidden;
 }
 
@@ -231,7 +234,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #02735E;
 }
 
 .experience-icon {
@@ -353,7 +356,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #0a8d75;
 	padding-bottom: 5%;
 }
 
@@ -437,4 +440,8 @@ footer a:focus {
 .social-links {
 	margin-top: 10px;
 	font-size: 22px;
+}
+
+.nav-link{
+	color:#000000
 }
