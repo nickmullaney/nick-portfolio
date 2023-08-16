@@ -8,6 +8,12 @@ html {
 	margin: 0;
 	padding: 0;
 }
+.nav-link{
+	color:#000000
+}
+.nav-link:focus, .nav-link:hover {
+	color:#000000;
+}
 
 .aligner {
 	display: flex;
@@ -442,6 +448,3 @@ footer a:focus {
 	font-size: 22px;
 }
 
-.nav-link{
-	color:#000000
-}
