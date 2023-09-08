@@ -10,30 +10,7 @@
       }
     },
     "projects": [
-      {
-        "title": "Simon",
-        "startDate": "2022",
-        "description": "The first coding group project I worked on to recreate the game Simon from the 80's. We made a fun and interactive memory game where you can challenge yourself and your memory.",
-        "images": [
-          "images/portfolio/simon/p2.gif",
-          "images/portfolio/simon/p1.png"
-        ],
-        "url": "https://gittbizzy.github.io/SimonSays/",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
+      
       {
         "title": "Store App",
         "startDate": "2023",
@@ -150,6 +127,50 @@
           {
             "class": "devicon-figma-plain",
             "name": "Figma"
+          }
+        ]
+      },
+      {
+        "title": "Simon",
+        "startDate": "2022",
+        "description": "The first coding group project I worked on to recreate the game Simon from the 80's. We made a fun and interactive memory game where you can challenge yourself and your memory.",
+        "images": [
+          "images/portfolio/simon/p2.gif",
+          "images/portfolio/simon/p1.png"
+        ],
+        "url": "https://gittbizzy.github.io/SimonSays/",
+        "technologies": [
+          {
+            "class": "devicon-htlm5-original",
+            "name": "html5"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "css3"
+          },
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-trello-original",
+            "name": "Trello"
           }
         ]
       }
