@@ -1,93 +1,150 @@
 {
-    "basic_info": {
-      "name": "Nick Mullaney",
-      "titles": [ "Software Developer and Chef with Leadership Experience in high paced environments" ],
-      "social": [
-        {
-          "name": "github",
-          "url": "https://github.com/nickmullaney",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "linkedin",
-          "url": "https://www.linkedin.com/in/nick-mullaney/",
-          "class": "fab fa-linkedin"
-        }
-      ],
-      "image": "nickprofile.jpg"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "Java",
-          "class": "devicon-java-plain",
-          "level": "70"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-original",
-          "level": "70"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "Python",
-          "class": "devicon-python-plain",
-          "level": "80"
-        },
-        {
-          "name": "vscode",
-          "class": "devicon-vscode-plain",
-          "level": "80"
-        },
-        {
-          "name": "Github",
-          "class": "devicon-github-original",
-          "level": "80"
-        },
-        {
-          "name": "Jira",
-          "class": "devicon-jira-plain",
-          "level": "90"
-        },
-        {
-          "name": "Jupyter",
-          "class": "devicon-jupyter-plain",
-          "level": "70"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        },
-        {
-          "name": "Markdown",
-          "class": "devicon-markdown-original",
-          "level": "60"
-        },
-        {
-          "name": "Photoshop",
-          "class": "devicon-photoshop-plain",
-          "level": "60"
-        }
-      ]
-    }
+  "basic_info": {
+    "name": "Nick Mullaney",
+    "titles": [
+      "Software Developer and Chef with Leadership Experience in high paced environments"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/nickmullaney",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nick-mullaney/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "nickprofile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "70"
+      },
+      {
+        "name": "Next.js",
+        "class": "devicon-nextjs-plain",
+        "level": "70"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "typescript",
+        "class": "devicon-typescript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "HTML",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "material-ui",
+        "class": "devicon-materialui-plain",
+        "level": "70"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "sass",
+        "class": "devicon-sass-original",
+        "level": "70"
+      }
+      {
+        "name": "mongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "70"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "70"
+      },
+      {
+        "name": "nodejs",
+        "class": "devicon-nodejs-plain",
+        "level": "70"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "80"
+      },
+      {
+        "name": "vscode",
+        "class": "devicon-vscode-plain",
+        "level": "80"
+      },
+      {
+        "name": "Github",
+        "class": "devicon-github-original",
+        "level": "80"
+      },
+      {
+        "name": "Jira",
+        "class": "devicon-jira-plain",
+        "level": "90"
+      },
+      {
+        "name": "Jupyter",
+        "class": "devicon-jupyter-plain",
+        "level": "70"
+      },
+      {
+        "name": "postgresql",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "graphql",
+        "class": "devicon-graphql-plain",
+        "level": "60"
+      },
+      {
+        "name": "Markdown",
+        "class": "devicon-markdown-original",
+        "level": "60"
+      },
+      {
+        "name": "linux",
+        "class": "devicon-linux-plain",
+        "level": "60"
+      },
+      {
+        "name": "jest",
+        "class": "devicon-jest-plain",
+        "level": "60"
+      },
+      {
+        "name": "Photoshop",
+        "class": "devicon-photoshop-plain",
+        "level": "60"
+      },
+      {
+        "name": "Figma",
+        "class": "devicon-figma-plain",
+        "level": "60"
+      }
+    ]
   }
+}

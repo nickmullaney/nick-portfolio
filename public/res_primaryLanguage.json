@@ -35,49 +35,125 @@
         ]
       },
       {
-        "title": "NPC Village",
+        "title": "Store App",
         "startDate": "2023",
-        "description": "Placeholder for second project to be placed here",
+        "description": "An interactive shopping website with Vite that is connected to a remote inventory.",
         "images": [
-          "images/portfolio/npcvillage/village1.jpg",
-          "images/portfolio/npcvillage/village2.jpg"
+          "images/portfolio/store/storehome.png",
+          "images/portfolio/store/storecart.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/nickmullaney/storeApp",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
           }
         ]
       },
       {
-        "title": "Final Placeholder, Pantry",
+        "title": "KitchenIt",
         "startDate": "2023",
-        "description": "Final project which will be amazing",
+        "description": "An interactive food management app that allows users to search for recipes and save them in personalized cookbooks.",
         "images": [
-          "images/portfolio/pantry/pantry1.jpg",
-          "images/portfolio/pantry/pantry2.jpg"
+          "/images/portfolio/kitchenIt/p1.png",
+          "images/portfolio/kitchenIt/logo1.png",
+          "images/portfolio/kitchenIt/p1.png",
+          "images/portfolio/kitchenIt/KitchenIt2.png",
+          "images/portfolio/kitchenIt/KitchenIt3.png",
+          "images/portfolio/kitchenIt/KitchenIt4.png"
         ],
-        "url": "https://github.com",
+        "url": "https://kitchen-it.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-bootstrap-original",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          }
+        ]
+      },
+      {
+        "title": "Helen House Client Project",
+        "startDate": "2023",
+        "description": "PA user-friendly application to help LGBTQIA+ youth check in to the center that securely stores sensitive data and allows admin to query the database for valuable information.",
+        "images": [
+          "images/portfolio/helenHouse/home.png",
+          "images/portfolio/helenHouse/checkin.png",
+          "images/portfolio/helenHouse/datadashboard.png",
+          "images/portfolio/helenHouse/intakeform.png"
+
+        ],
+        "url": "https://helen-house-frontend.onrender.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-sqlite-plain",
+            "name": "sqlite"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
           }
         ]
       }
+      
     ],
     "experience": [
       {
@@ -88,6 +164,7 @@
           "Zendesk"
         ],
         "technologies": [
+          "React",
           "Jira",
           "MarginEdge",
           "SQL",
@@ -95,7 +172,8 @@
           "CSS",
           "HTML",
           "Google Suite",
-          "Microsoft Office Suite"
+          "Microsoft Office Suite",
+          "Figma"
         ]
       },
       {
