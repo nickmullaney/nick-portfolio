@@ -19,6 +19,7 @@ class App extends Component {
   }
 
   applyPickedLanguage = (pickedLanguage, oppositeLangIconId) => {
+    console.log(pickedLanguage)
     this.swapCurrentlyActiveLanguage(oppositeLangIconId);
     document.documentElement.lang = pickedLanguage;
     var resumePath =
