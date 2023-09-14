@@ -117,6 +117,55 @@
         ]
       },
       {
+        "title": "AI and Zendesk Chatbot",
+        "startDate": "2023",
+        "description": "An AI-powered chatbot project that provides real-time assistance and integrates with Zendesk for help article retrieval.",
+        "images": [
+          "images/portfolio/mechatbot/chatbothome.png",
+          "images/portfolio/mechatbot/chatbottext.png"
+         
+        ],
+        "url": "https://github.com/nickmullaney/my-chatbot",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwindcss"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "Open AI"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "Zendesk API"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "Material ui"
+          },
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          }
+        ]
+      },
+      {
         "title": "KitchenIt",
         "startDate": "2023",
         "description": "An interactive food management app that allows users to search for recipes and save them in personalized cookbooks.",
