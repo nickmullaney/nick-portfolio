@@ -15,6 +15,7 @@
         "startDate": "2023",
         "description": "User-friendly web application to help LGBTQIA+ youth check in to the center that securely stores sensitive data and allows admin to query the database for valuable information.",
         "images": [
+          "images/portfolio/hhMobile/home.jpg",
           "images/portfolio/helenHouse/home.png",
           "images/portfolio/helenHouse/checkin.png",
           "images/portfolio/helenHouse/datadashboard.png",
