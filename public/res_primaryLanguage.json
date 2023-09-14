@@ -133,6 +133,10 @@
             "name": "React"
           },
           {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
             "class": "devicon-mongodb-plain",
             "name": "MongoDB"
           },
@@ -142,7 +146,11 @@
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Framer Motion"
+          },
+          {
+            "class": "devicon-express-plain",
+            "name": "Express"
           },
           {
             "class": "devicon-figma-plain",
