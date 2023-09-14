@@ -66,13 +66,13 @@
         "startDate": "2023",
         "description": "User-friendly Mobile application to help LGBTQIA+ youth check in to the center that securely stores sensitive data and allows admin to query the database for valuable information.",
         "images": [
-          "images/portfolio/hhMobile/mobilehome.png",
-          "images/portfolio/hhMobile/mobilecheckin.png",
-          "images/portfolio/hhMobile/mobilecheckinloading.png",
-          "images/portfolio/hhMobile/mobilecheckout.png",
-          "images/portfolio/hhMobile/mobilemenu.png",
-          "images/portfolio/hhMobile/mobilesettings.png",
-          "images/portfolio/hhMobile/mobilecontact.png"
+          "images/portfolio/hhMobile/mobilehome.jpg",
+          "images/portfolio/hhMobile/mobilecheckin.jpg",
+          "images/portfolio/hhMobile/mobilecheckinloading.jpg",
+          "images/portfolio/hhMobile/mobilecheckout.jpg",
+          "images/portfolio/hhMobile/mobilemenu.jpg",
+          "images/portfolio/hhMobile/mobilesettings.jpg",
+          "images/portfolio/hhMobile/mobilecontact.jpg"
         ],
         "url": "https://github.com/nickmullaney/helen-house-mobile-tester",
         "technologies": [
