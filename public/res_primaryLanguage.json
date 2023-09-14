@@ -10,32 +10,103 @@
       }
     },
     "projects": [
-      
       {
-        "title": "Store App",
+        "title": "Helen House Client Project",
         "startDate": "2023",
-        "description": "An interactive shopping website with Vite that is connected to a remote inventory.",
+        "description": "User-friendly web application to help LGBTQIA+ youth check in to the center that securely stores sensitive data and allows admin to query the database for valuable information.",
         "images": [
-          "images/portfolio/store/storehome.png",
-          "images/portfolio/store/storecart.png"
+          "images/portfolio/helenHouse/home.png",
+          "images/portfolio/helenHouse/checkin.png",
+          "images/portfolio/helenHouse/datadashboard.png",
+          "images/portfolio/helenHouse/intakeform.png"
+
         ],
-        "url": "https://github.com/nickmullaney/storeApp",
+        "url": "https://helen-house-frontend.onrender.com/",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          },
+          {
             "class": "devicon-express-original",
             "name": "Express"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-sqlite-plain",
+            "name": "sqlite"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-sass-plain",
-            "name": "Sass"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-figma-plain",
+            "name": "Figma"
+          }
+        ]
+      },
+      {
+        "title": "Helen House Client Project, Mobile Application",
+        "startDate": "2023",
+        "description": "User-friendly Mobile application to help LGBTQIA+ youth check in to the center that securely stores sensitive data and allows admin to query the database for valuable information.",
+        "images": [
+          "images/portfolio/hhMobile/mobilehome.png",
+          "images/portfolio/hhMobile/mobilecheckin.png",
+          "images/portfolio/hhMobile/mobilecheckinloading.png",
+          "images/portfolio/hhMobile/mobilecheckout.png",
+          "images/portfolio/hhMobile/mobilemenu.png",
+          "images/portfolio/hhMobile/mobilesettings.png",
+          "images/portfolio/hhMobile/mobilecontact.png"
+        ],
+        "url": "https://github.com/nickmullaney/helen-house-mobile-tester",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-apple-plain",
+            "name": "IOS"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Expo"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
           },
           {
             "class": "devicon-figma-plain",
@@ -80,49 +151,30 @@
         ]
       },
       {
-        "title": "Helen House Client Project",
+        "title": "Store App",
         "startDate": "2023",
-        "description": "PA user-friendly application to help LGBTQIA+ youth check in to the center that securely stores sensitive data and allows admin to query the database for valuable information.",
+        "description": "An interactive shopping website with Vite that is connected to a remote inventory.",
         "images": [
-          "images/portfolio/helenHouse/home.png",
-          "images/portfolio/helenHouse/checkin.png",
-          "images/portfolio/helenHouse/datadashboard.png",
-          "images/portfolio/helenHouse/intakeform.png"
-
+          "images/portfolio/store/storehome.png",
+          "images/portfolio/store/storecart.png"
         ],
-        "url": "https://helen-house-frontend.onrender.com/",
+        "url": "https://github.com/nickmullaney/storeApp",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-nodejs-plain",
-            "name": "Node"
-          },
-          {
             "class": "devicon-express-original",
             "name": "Express"
-          },
-          {
-            "class": "devicon-postgresql-plain",
-            "name": "PostgreSQL"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-sqlite-plain",
-            "name": "sqlite"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
+            "class": "devicon-sass-plain",
+            "name": "Sass"
           },
           {
             "class": "devicon-figma-plain",
