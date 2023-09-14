@@ -66,6 +66,7 @@
         "startDate": "2023",
         "description": "User-friendly Mobile application to help LGBTQIA+ youth check in to the center that securely stores sensitive data and allows admin to query the database for valuable information.",
         "images": [
+          "images/portfolio/hhMobile/home.jpg",
           "images/portfolio/hhMobile/mobilehome.jpg",
           "images/portfolio/hhMobile/mobilecheckin.jpg",
           "images/portfolio/hhMobile/mobilecheckinloading.jpg",
